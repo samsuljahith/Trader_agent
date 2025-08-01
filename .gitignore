@@ -1,0 +1,19 @@
+
+# Python
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Data files
+data/trades.csv  # Remove if you want to track sample data
+
+# IDE
+.vscode/
+.idea/
+

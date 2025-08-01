@@ -1,0 +1,11 @@
+Trade ID,Asset,Action,Price,Volume,Date,Outcome,Tags
+TO01,BTC,Buy,30000,1.5,2024-01-15,Profit,breakout,long-term
+TO02,ETH,Sell,1900,5.0,2024-01-18,Loss,sentiment,stop-loss
+TO03,DOGE,Buy,0.07,10000,2024-01-22,Profit,meme,community
+TO04,SOL,Buy,95,50,2024-01-25,Loss,technical,rsi-divergence
+TO05,PEPE,Buy,0.000004,5000000,2024-01-28,Profit,meme,viral
+TO06,BTC,Sell,42000,0.8,2024-02-01,Profit,technical,resistance
+TO07,ETH,Buy,2200,3.0,2024-02-05,Neutral,news,merge-event
+TO08,DOGE,Sell,0.09,8000,2024-02-09,Profit,meme,elon-tweet
+TO09,SOL,Sell,110,40,2024-02-12,Loss,technical,breakdown
+TO10,PEPE,Sell,0.000009,3000000,2024-02-15,Profit,meme,pump
